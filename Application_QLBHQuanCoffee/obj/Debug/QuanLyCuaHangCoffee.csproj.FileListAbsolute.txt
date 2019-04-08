@@ -1,0 +1,150 @@
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\bin\Debug\QuanLyCuaHangCoffee.exe.config
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\bin\Debug\QuanLyCuaHangCoffee.exe
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\bin\Debug\QuanLyCuaHangCoffee.pdb
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.csprojResolveAssemblyReference.cache
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.Properties.Resources.resources
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.csproj.GenerateResource.Cache
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.exe
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.pdb
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmLogin.resources
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmNhanVien.resources
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTrangChuAdmin.resources
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHeThongQuanLy.resources
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTimKiemNhanVien.resources
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTimKiemSanPham.resources
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinCaNhan.resources
+D:\C#_ConnectionDB\Project\QuanLyCuaHangCoffee\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMatKhau.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\bin\Debug\QuanLyCuaHangCoffee.exe.config
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.exe
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.pdb
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\bin\Debug\QuanLyCuaHangCoffee.exe
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\bin\Debug\QuanLyCuaHangCoffee.pdb
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.csprojResolveAssemblyReference.cache
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMatKhau.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinCaNhan.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTimKiemNhanVien.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTimKiemSanPham.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTrangChuAdmin.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHeThongQuanLy.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmLogin.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmNhanVien.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.Properties.Resources.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.csproj.GenerateResource.Cache
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHoaDon_NhanVien.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHD_Admin.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMK_Admin.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemDSSanPham_Employee.resources
+D:\C#_ConnectionDB\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinPhanMem.resources
+G:\QuanLyCuaHangCoffee\bin\Debug\QuanLyCuaHangCoffee.exe.config
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.exe
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.pdb
+G:\QuanLyCuaHangCoffee\bin\Debug\QuanLyCuaHangCoffee.exe
+G:\QuanLyCuaHangCoffee\bin\Debug\QuanLyCuaHangCoffee.pdb
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.csprojResolveAssemblyReference.cache
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMatKhau.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMK_Admin.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinCaNhan.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinPhanMem.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTimKiemNhanVien.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTimKiemSanPham.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTrangChuAdmin.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHeThongQuanLy.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmLogin.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmNhanVien.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHD_Admin.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHoaDon_NhanVien.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemDSSanPham_Employee.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.Properties.Resources.resources
+G:\QuanLyCuaHangCoffee\obj\Debug\QuanLyCuaHangCoffee.csproj.GenerateResource.Cache
+D:\C#_ConnectionDB\GiaoDien\bin\Debug\QuanLyCuaHangCoffee.exe.config
+D:\C#_ConnectionDB\GiaoDien\obj\Debug\QuanLyCuaHangCoffee.exe
+D:\C#_ConnectionDB\GiaoDien\obj\Debug\QuanLyCuaHangCoffee.pdb
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.exe.config
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.exe
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.pdb
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.exe
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.pdb
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.csprojResolveAssemblyReference.cache
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMatKhau.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMK_Admin.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinCaNhan.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinPhanMem.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTimKiemNhanVien.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTrangChuAdmin.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHeThongQuanLy.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmLogin.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmNhanVien.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHD_Admin.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHoaDon_NhanVien.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemDSSanPham_Employee.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.Properties.Resources.resources
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.csproj.GenerateResource.Cache
+D:\C#_ConnectionDB\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHoaDon.resources
+D:\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.exe.config
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.exe
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.pdb
+D:\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.exe
+D:\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.pdb
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.csprojResolveAssemblyReference.cache
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMatKhau.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMK_Admin.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHoaDon.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinCaNhan.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinPhanMem.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTimKiemNhanVien.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTrangChuAdmin.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHeThongQuanLy.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmLogin.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmNhanVien.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHD_Admin.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHoaDon_NhanVien.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemDSSanPham_Employee.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.Properties.Resources.resources
+D:\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.csproj.GenerateResource.Cache
+H:\New folder\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.exe.config
+H:\New folder\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.exe
+H:\New folder\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.pdb
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.exe.config
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.exe
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.pdb
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.csprojAssemblyReference.cache
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMatKhau.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMK_Admin.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHoaDon.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinCaNhan.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinPhanMem.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTimKiemNhanVien.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTrangChuAdmin.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHeThongQuanLy.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmLogin.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmNhanVien.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHD_Admin.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHoaDon_NhanVien.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemDSSanPham_Employee.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.Properties.Resources.resources
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.csproj.GenerateResource.cache
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.csproj.CoreCompileInputs.cache
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.exe
+D:\Winfrom C#\Project_NguyenThiThanhHuong\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.pdb
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.exe.config
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.exe
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\bin\Debug\QuanLyCuaHangCoffee.pdb
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.csprojAssemblyReference.cache
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMatKhau.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmDoiMK_Admin.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHoaDon.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinCaNhan.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmThongTinPhanMem.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTimKiemNhanVien.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmTrangChuAdmin.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmHeThongQuanLy.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmLogin.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmNhanVien.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHD_Admin.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemChiTietHoaDon_NhanVien.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.frmXemDSSanPham_Employee.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.Properties.Resources.resources
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.csproj.GenerateResource.cache
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.csproj.CoreCompileInputs.cache
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.exe
+C:\Users\HuuQuoc\Desktop\Application_QLBHQuanCoffee\obj\Debug\QuanLyCuaHangCoffee.pdb
